@@ -26,7 +26,7 @@ export default function HomePage() {
           Roast. Recap. Rule the League.
         </h2>
         <p className="text-lg md:text-xl text-gray-300 max-w-2xl mb-6">
-          Recapr arms you with savage, AI-written weekly recaps that call out frauds, flame poor captains, and fire up your league's banter. Because other fantasy sites won’t give you the ammo you need to roast your mates.
+          Recapr arms you with savage, AI-written weekly recaps that call out frauds, flame poor captains, and fire up your leagues banter. Because other fantasy sites won&apos;t give you the ammo you need to roast your mates.
         </p>
         <button
           onClick={() => router.push('/dashboard')}
